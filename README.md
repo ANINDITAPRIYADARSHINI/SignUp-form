@@ -1,3 +1,3 @@
 # SignUp-form
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-5eczco)
+Its a basic signup form. I created this after learning all about React Forms, as a practice exercise.
